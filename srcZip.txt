@@ -1,0 +1,5 @@
+﻿[Exclude]
+.git
+.vs
+Archived
+.gitignore
