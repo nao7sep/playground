@@ -20,7 +20,7 @@ My primary goal as an occasional developer is to first complete Nekote, which me
 
 Also, if #2 is extensible in the ways I'd like it to be, it'll be a good start for a number of weekend projects.
 
-Like I would like to learn Chinese. Japanese people already know 2,500 kanji and some say they use 4,000. Many look similar and share similar meanings (like our "letter" in kanji means "toilet paper" in Chinese, but you'd anyway grab a letter or two if you need to go to the bathroom urgently). So, one day, I'd like to write a web-app that automatically refers to databases offered by the Unicode organization and some others to help me focuses on the differences I dont yet know (so that I wont be learning what I already know). A weekend project like this should be greatly helped by #2.
+Like I would like to learn Chinese. Japanese people already know 2,500 kanji and some say they use 4,000. Many look similar and share similar meanings (like our "letter" in kanji means "toilet paper" in Chinese, but you'd anyway grab a letter or two if you need to go to the bathroom urgently). So, one day, I'd like to write a web-app that automatically refers to databases offered by the Unicode organization and some others to help me focus on the differences I dont yet know (so that I wont be learning what I already know). A weekend project like this should be greatly helped by #2.
 
 For now, I wont talk too much about any of the projects above or the businesses I'm related to because I anyway dont have Nekote ready and I anyway dont know enough to help others as a developer; if you have business-related concerns, ideas, etc, it's highly likely that I can be of some help, but this is GitHub and I'd like to first blend in as a developer.
 
